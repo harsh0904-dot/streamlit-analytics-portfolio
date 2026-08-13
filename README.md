@@ -14,7 +14,7 @@ Each dashboard is built as a production-style Streamlit experience with interact
 
 ## Live Demo
 
-Live app URL: **Coming soon**
+Live app URL: https://github.com/harsh0904-dot/streamlit-analytics-portfolio
 
 After deployment on Streamlit Cloud, add the public app link here.
 
